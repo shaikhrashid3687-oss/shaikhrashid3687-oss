@@ -176,13 +176,36 @@ Key areas covered:
 
 # 📈 GitHub Statistics
 
+<!-- GitHub Stats -->
+<h2 align="center">
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaikhrashid3687-oss&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhrashid3687-oss&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170"
+       src="https://github-readme-stats-fast.vercel.app/api?username=shaikhrashid3687-oss&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+  <img height="170"
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shaikhrashid3687-oss&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+---
+
+<!-- GitHub Streak -->
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shaikhrashid3687-oss&theme=github-dark&hide_border=true"/>
+</p>
+
+
+<!-- Activity Graph -->
+<h2 align="center">
+
+  
+<!-- GitHub Profile Summary -->
+<h2 align="center">🚀 GitHub Profile</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikhrashid3687-oss&theme=github_dark"/>
 </p>
 
 ---
