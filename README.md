@@ -125,7 +125,7 @@ Developed an end-to-end **Sales Analytics Dashboard** using a Superstore dataset
 
 ### 🔗 Project Repository
 
-👉 **[View Complete Sales Analytics Dashboard](https://github.com/shaikhrashid3687-oss/sales-analytics-dashboard)**
+👉 **[View Complete Sales Analytics Dashboard](https://github.com/shaikhrashid3687-oss/Sales_Capstone_Project)**
 
 
 # 🎓 Education
